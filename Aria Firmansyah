@@ -15,5 +15,5 @@ console.log(properti1)
 //Tugas 3 Nomor 2
 console.log("Tugas 3 Nomor 2 Variable Bertipe array")
 
-let restaurant = ["Kedai Aria Firmansyah","Ciambar","Boba Anngur, Yogurt Drink","Mie Kocok,Seblak,Bakso",true]
+let restaurant = ["Kedai Aria Firmansyah","Ciambar","Boba Anngur, Yogurt Drink","Mie Jebeu,Seblak,Bakso",true]
 console.log(restaurant)
